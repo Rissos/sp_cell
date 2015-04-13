@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 13 11:20:23 2015
 
-@author: Marco
-"""
 import bisect;
 import sys;
 
